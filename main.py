@@ -42,7 +42,7 @@ class STANNY_B:
         self.posted = []
         self.posted_hour = datetime.now().hour
 
-        # GODS BE GOOD
+        # Whelp, time to roast my kiddo alive...
         self.run()
 
     def send_webhook(self, body):
