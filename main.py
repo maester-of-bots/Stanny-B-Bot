@@ -7,7 +7,7 @@ import requests
 from quotes import quotes
 from sql import *
 
-from sentience import *
+# from sentience import *
 from utils import *
 
 
