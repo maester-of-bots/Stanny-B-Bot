@@ -2,3 +2,4 @@ venv/*
 .env
 .idea/*
 db/*
+__pycache__/sentience.cpython-310.pyc
